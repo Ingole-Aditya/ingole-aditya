@@ -9,6 +9,11 @@ A passionate frontend developer from India
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ingole-aditya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingole-aditya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ingole-aditya&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ingole-aditya/ingole-aditya/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ingole-aditya/ingole-aditya/output/github-snake.svg" />
